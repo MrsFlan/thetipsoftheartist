@@ -51,5 +51,9 @@ p { font-size: 20px; }
           margin: 10px; 
           border-radius: 3px; }
 
+table, td { text-align: left; 
+        border: solid 1px black; 
+        width: 300px; }
+
 
 
